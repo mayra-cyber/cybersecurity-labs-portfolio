@@ -9,35 +9,35 @@ This repository documents my hands-on cybersecurity learning journey focused on 
 ### Lab 1 — Virtualized Linux Environment Setup
 Built a multi-VM environment using VirtualBox with Ubuntu, Kali Linux, and Linux Mint to support future cybersecurity testing and SIEM practice.
 
-🔗 [View Lab 1](https://github.com/mayra-cyber/Lab-1-VirtualBox-Linux-Lab)]
+🔗 [View Lab 1](https://github.com/mayra-cyber/Lab-1-VirtualBox-Linux-Lab)
 
 ---
 
 ### Lab 2 — Network Protocol Fundamentals
 Studied core networking protocols including TCP/IP, DNS, DHCP, SSH, HTTP/HTTPS, and how data travels securely across networks.
 
-🔗 [View Lab 2](PASTE-LAB-2-LINK-HERE)
+🔗 [View Lab 2]([PASTE-LAB-2-LINK-HERE](https://github.com/mayra-cyber/Lab-2-Network-Protocols))
 
 ---
 
 ### Lab 3 — Cisco Packet Tracer
 Installed and configured Cisco Packet Tracer to simulate network configuration and troubleshooting without physical hardware.
 
-🔗 [View Lab 3](PASTE-LAB-3-LINK-HERE)
+🔗 [View Lab 3]([PASTE-LAB-3-LINK-HERE](https://github.com/mayra-cyber/Lab-3-Cisco-Packet-Tracer))
 
 ---
 
 ### Lab 4 — Linux User & Permission Management
 Performed Linux user and group administration, privilege management using sudo, and simulated breach recovery through permission control and system cleanup.
 
-🔗 [View Lab 4](PASTE-LAB-4-LINK-HERE)
+🔗 [View Lab 4]([PASTE-LAB-4-LINK-HERE](https://github.com/mayra-cyber/Lab-4-Linux-User-Management))
 
 ---
 
 ### Lab 5 — Linux Package Management
 Practiced managing software installations using dpkg and apt while learning how repositories and dependency management function in Linux systems.
 
-🔗 [View Lab 5](PASTE-LAB-5-LINK-HERE)
+🔗 [View Lab 5]([PASTE-LAB-5-LINK-HERE](https://github.com/mayra-cyber/Lab-5-Linux-Package-Management))
 
 ---
 
