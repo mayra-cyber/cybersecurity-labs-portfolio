@@ -9,7 +9,7 @@ This repository documents my hands-on cybersecurity learning journey focused on 
 ### Lab 1 — Virtualized Linux Environment Setup
 Built a multi-VM environment using VirtualBox with Ubuntu, Kali Linux, and Linux Mint to support future cybersecurity testing and SIEM practice.
 
-🔗 [View Lab 1]([(https://github.com/mayra-cyber/Lab-1-VirtualBox-Linux-Lab)](https://github.com/mayra-cyber/Lab-1-VirtualBox-Linux-Lab))
+🔗 [View Lab 1](https://github.com/mayra-cyber/Lab-1-VirtualBox-Linux-Lab)]
 
 ---
 
