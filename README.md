@@ -39,6 +39,11 @@ Practiced managing software installations using dpkg and apt while learning how 
 
 🔗 [View Lab 5](https://github.com/mayra-cyber/Lab-5-Linux-Package-Management)
 
+### Lab 6 - Installing Windows 11 in Oracle VirtualBox
+Set up a Windows 11 virtual machine using Oracle VirtualBox to create a safe environment for IT and cybersecurity labs without affecting the host operating system.
+
+🔗[View Lab 6](https://github.com/mayra-cyber/Lab-6-Windows-11-Virtualization)
+
 ---
 
 ## Skills Demonstrated
